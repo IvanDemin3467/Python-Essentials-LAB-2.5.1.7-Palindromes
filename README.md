@@ -59,3 +59,9 @@ user_input() - to verify user input;
 is_palindrome(text) - main algorithm that accepts string and returns True if string is a palindrome;
 
 tests() - typical function that tries test cases.
+
+**versions**
+
+palindromes-v1.py - solves the problem in 8 strings of code
+
+palindromes-v2.py - do the same in 1 string
